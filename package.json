@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@openai/agents": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
+}
